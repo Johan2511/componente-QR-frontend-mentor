@@ -97,5 +97,6 @@ span {
     font-size: 1.5rem;
     color: var(--GrayishBlue);
     text-align: center;
+    line-height: 1.5;
 }
 
